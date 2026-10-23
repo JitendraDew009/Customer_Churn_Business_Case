@@ -1,0 +1,27 @@
+{
+  "threshold": 0.5,
+  "accuracy": 0.7290139804151013,
+  "precision": 0.20565552699228792,
+  "recall": 0.1228878648233487,
+  "f1": 0.15384615384615385,
+  "f2": 0.13364517206815904,
+  "roc_auc": 0.5018527813623753,
+  "average_precision": 0.20283113893158727,
+  "confusion_matrix": [
+    [
+      34311,
+      4635
+    ],
+    [
+      8565,
+      1200
+    ]
+  ],
+  "test_rows": 48711,
+  "test_churn_rate": 0.20046806676110118,
+  "validation_roc_auc": 0.5045889886259501,
+  "threshold_method": "default_0.5_due_to_near_chance_validation_auc",
+  "flag_rate": 0.11978813820286999,
+  "majority_class_accuracy": 0.7995319332388988,
+  "average_precision_lift": 1.0117877735275522
+}
